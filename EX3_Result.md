@@ -5,7 +5,7 @@
 * 由于重复训练12次变化不大，故没有继续进行下去，第 i 次用了第 i-1 的weight和基于UD分解的卡尔曼滤波增益值  
 
 **training集合的regression**  
-![kl_train](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/kl_train.png)  
+![kl_train](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case1/kl_train.png)  
 ![ks_train](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/ks_train.png)  
 ![mv_train](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/mv_train.png)  
 
