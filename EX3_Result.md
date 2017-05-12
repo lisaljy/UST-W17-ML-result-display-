@@ -6,13 +6,13 @@
 
 **training集合的regression**  
 ![kl_train](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case1/kl_train.png)  
-![ks_train](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/ks_train.png)  
-![mv_train](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/mv_train.png)  
+![ks_train](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case1/ks_train.png)  
+![mv_train](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case1/mv_train.png)  
 
 **testing集合的regression**  
-![kl_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/kl.png)  
-![ks_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/ks.png)  
-![mv_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case1/mv.png)  
+![kl_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case1/kl.png)  
+![ks_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case1/ks.png)  
+![mv_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case1/mv.png)  
 
 **rms error: 4.509680, 0.818279, 0.142472**  
 **inverted result & rms 为第10次实验结果**  
@@ -24,9 +24,9 @@
 * 由于重复训练2次变化不大，故没有继续进行下去，第 i 次用了第 i-1 的weight和基于UD分解的卡尔曼滤波增益值 (重复实验下去？)  
 
 **testing集合的regression**  
-![kl_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case2/kl.jpg)  
-![ks_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case2/ks.png)  
-![mv_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case2/mv.png)  
+![kl_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case2/kl.jpg)  
+![ks_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case2/ks.png)  
+![mv_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case2/mv.png)  
 
 **rms error: 3.741964, 0.768856, 0.118365**   
 
@@ -37,9 +37,9 @@
 * regression fit 显示与case1，2情况大致相同，没有本质的提升
 
 **testing集合的regression**  
-![kl_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case3/kl.png)  
-![ks_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case3/ks.png)  
-![mv_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case3/mv.png)  
+![kl_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case3/kl.png)  
+![ks_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case3/ks.png)  
+![mv_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case3/mv.png)  
 
 **rms error: 3.295030, 0.646489, 0.119759**   
 
@@ -51,9 +51,9 @@
 * 相较于case2，rms有一定程度的下降，regression fit肉眼上没有直观的提升  
 
 **testing集合的regression**  
-![kl_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case4/kl.png)  
-![ks_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case4/ks.png)  
-![mv_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case4/mv.png)  
+![kl_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case4/kl.png)  
+![ks_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case4/ks.png)  
+![mv_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case4/mv.png)  
 
 **rms error: 3.302407, 0.685067, 0.119522**   
 
@@ -73,9 +73,9 @@
 * 实验结果没有本质提升  
 
 **testing集合的regression**  
-![kl_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case6/kl.png)  
-![ks_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case6/ks.png)  
-![mv_test](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case6/mv.png)  
+![kl_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case6/kl.png)  
+![ks_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case6/ks.png)  
+![mv_test](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case6/mv.png)  
 
 **rms error: 0.723196, 0.737914, 0.843352**  
 
@@ -88,7 +88,7 @@
 ***（未完成，当前只验证了kl）***  
 
 **testing_kl集合的regression**  
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case7/kl.png)  
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case7/kl.png)  
 
 ## Case8  
 * **基于DLNN网络结构实验**    
@@ -97,7 +97,7 @@
 * 数据集为16744sample  
 
 **testing_kl集合的regression**   
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case8/kl_test.png)  
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case8/kl_test.png)  
 
 ## Case9  
 * 基于DLNN网络结构实验  
@@ -106,7 +106,7 @@
 * 数据集为16744sample  
 
 **testing_kl集合的regression**   
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case9/kl_test.png)
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case9/kl_test.png)
 
 ## Case10  
 * 利用 Matlab 中的现成神经网络工具包测试
@@ -119,23 +119,23 @@
 #### 小组实验结果展示
 * case10.1：hh,vv,theta为输入；kl,ks,mv为输出  
 
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case10/3in3out.png)  
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case10/3in3out.png)  
 
 * case10.2：hh,vv,theta为输入；kl为输出  
 
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case10/3in1out_kl.png)  
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case10/3in1out_kl.png)  
 
 * case10.3：hh,vv,theta为输入；ks为输出  
 
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case10/3in1out_ks.png)  
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case10/3in1out_ks.png)  
 
 * case10.4：hh,vv,theta为输入；mv为输出  
 
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case10/3in1out_mv.png)  
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case10/3in1out_mv.png)  
 
 * case10.5：hh,vv,ks,mv为输入；kl为输出  
 
-![regression](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/case10/4in1out_kl.png)  
+![regression](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/case10/4in1out_kl.png)  
 
 
 ## 阶段性实验总结  
@@ -149,10 +149,10 @@
 * 由case5 排除迭代训练样本顺序重复问题  
 * 由hh与vv的概率密度函数曲线图可知：  
 
-![hh](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/hh_pmf.png)
-![hh_normalize](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/hh_normalize_pmf.png)  
-![vv](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/vv_pmf.png)
-![vv_normalize](https://github.com/lisaljy/UST-W17-ML/blob/master/pic/exp3_DLNN_result/vv_normalize_pmf.png)  
+![hh](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/hh_pmf.png)
+![hh_normalize](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/hh_normalize_pmf.png)  
+![vv](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/vv_pmf.png)
+![vv_normalize](https://github.com/lisaljy/UST-W17-ML-result-display-/blob/master/pic/exp3_DLNN_result/vv_normalize_pmf.png)  
 
 *归一化处理并未改变其分布，同时由大数定理可知，当样本量足够大时，样本的均值和方差均趋于恒定，正则化处理，相对而言只是进行了坐标轴的变换，故不应存在理论上的错误*  
 * 由case6 发现，归一化处理的效果并未提升训练结果，因此怀疑归一化的方法，后期是否可以尝试：A = B/B的range？  
